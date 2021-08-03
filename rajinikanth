@@ -5,9 +5,11 @@ Just for testing the playaround repository
 
 git clone https://github.com/suresh-krishnan/playaround.git
 
-git add *.* <filename>
+git add * <filename>
 git commit -m "Just for testing"
 
 git push
+git status
+
 
 
